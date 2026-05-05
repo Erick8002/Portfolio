@@ -9,7 +9,14 @@ body {
     background: linear-gradient(150deg, #396a3a 0%, #355e51 20%, #325033 50%, #434934 75%, #243932 100%);
     min-height: 100vh;
     color:#92dbc2;
-} 
+}
+
+.logo {
+    color: #a8d5ba;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: bold;
+}
 
 header {
     padding: 25px;
@@ -20,9 +27,6 @@ header {
     margin: 10px 0 10px;
 }
 
-header h1 {
-    color: #a8d5ba;
-}
 
 header nav {
     width: 100%;
